@@ -1,1 +1,4 @@
 added directly from GutHub.com to SIMULATE REMOTE REPO has commts we do not have locally
+
+Doing more work and trying to pull it down to local repo eventually
+
